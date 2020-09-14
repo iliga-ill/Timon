@@ -1,0 +1,12 @@
+.timon{
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.world{
+    height: 1070px;
+    width: 100%;
+    z-index: -1;
+
+}
